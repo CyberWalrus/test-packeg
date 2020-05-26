@@ -1,0 +1,12 @@
+{
+  "name": "test-packeg",
+  "version": "1.0.0",
+  "description": "test packeg",
+  "main": "index.js",
+  "repository": "git@github.com:CyberWalrus/test-packeg.git",
+  "author": "Andrey Pakhomov <stonewalrusfan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
